@@ -1,0 +1,7 @@
+C:\Users\BOGDAN\source\repos\Modul\Modul\bin\Debug\Modul.exe.config
+C:\Users\BOGDAN\source\repos\Modul\Modul\bin\Debug\Modul.exe
+C:\Users\BOGDAN\source\repos\Modul\Modul\bin\Debug\Modul.pdb
+C:\Users\BOGDAN\source\repos\Modul\Modul\obj\Debug\Modul.csprojAssemblyReference.cache
+C:\Users\BOGDAN\source\repos\Modul\Modul\obj\Debug\Modul.csproj.CoreCompileInputs.cache
+C:\Users\BOGDAN\source\repos\Modul\Modul\obj\Debug\Modul.exe
+C:\Users\BOGDAN\source\repos\Modul\Modul\obj\Debug\Modul.pdb
